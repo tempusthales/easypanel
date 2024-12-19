@@ -1,0 +1,2 @@
+# easypanel
+EasyPanel Templates
